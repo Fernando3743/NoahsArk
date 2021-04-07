@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>190</x>
+      <y>120</y>
+      <w>100</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>GameManager 
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>60</x>
+      <y>170</y>
+      <w>100</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Pog
+--
+style : int
+getStyle() : int</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>210</x>
+      <y>280</y>
+      <w>150</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>PrincipalNoahsArk
+--
+main : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>350</x>
+      <y>140</y>
+      <w>100</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>MainWindow
+--
+initGUI() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
