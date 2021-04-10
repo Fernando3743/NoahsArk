@@ -1,8 +1,8 @@
 /*
- * Programacion interactiva
+ * Interactive Programming
  * Author: Luis Fernando Lara S - 2024730-3743
  * Email: luis.fernando.lara@correounivalle.edu.co
- * Atento y Rapido Miniproyecto
+ * Noah's Ark Miniproject
  */
 package noahsArk;
 
